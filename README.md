@@ -1,11 +1,5 @@
-## 📁 Estructura del Proyecto
 1) Estructura del Proyecto
-0311at/
-├── static-website/
-└── kubernetes-manifests/
-    ├── volumen/
-    ├── despliegue/
-    └── servicio/
+0311at/ ├── static-website/ └── kubernetes-manifests/ ├── volumen/ ├── despliegue/ └── servicio/
    
 2) Dentro de esas carpetas crear:
 static-website/: Archivos index.html y styles.css.
